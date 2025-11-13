@@ -6,4 +6,4 @@
 
 3. Invented Airprint Enterprise [here](https://patents.google.com/patent/EP2864894B1/)
 
-4. Launched a 3D Printing subscription business that grew strong through COVID [here](https://www.zdnet.com/article/hp-launches-3d-printing-as-a-service-models/)
+4. Launched a 3D Printing subscription business that not only survived but grew strong through COVID [here](https://www.zdnet.com/article/hp-launches-3d-printing-as-a-service-models/)
